@@ -14,7 +14,7 @@ import os
 ###
 #    Global Paths
 ###
-drive = os.path.join('/usr','people','auduna','hiplib')
+drive = os.path.join('your','path','here')
 hiplib = os.path.join(drive, 'lib')
 hiplog = os.path.join(drive, 'log')
 logfile = os.path.join(hiplib, 'lib')
